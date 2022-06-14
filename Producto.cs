@@ -20,6 +20,7 @@ public class Producto
         Nombre= nombres[a.Next(0,4)];
         Fechavencimiento= Convert.ToDateTime(fechas[a.Next(0,3)]);
         Tamanio= tamanios[a.Next(0,3)];
+        Precio= a.Next(1000, 5000);
     }
 }
 
