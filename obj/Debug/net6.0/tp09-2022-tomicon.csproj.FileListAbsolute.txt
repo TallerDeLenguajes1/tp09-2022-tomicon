@@ -1,0 +1,15 @@
+C:\tp09-2022-tomicon\bin\Debug\net6.0\tp09-2022-tomicon.exe
+C:\tp09-2022-tomicon\bin\Debug\net6.0\tp09-2022-tomicon.deps.json
+C:\tp09-2022-tomicon\bin\Debug\net6.0\tp09-2022-tomicon.runtimeconfig.json
+C:\tp09-2022-tomicon\bin\Debug\net6.0\tp09-2022-tomicon.dll
+C:\tp09-2022-tomicon\bin\Debug\net6.0\tp09-2022-tomicon.pdb
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.csproj.AssemblyReference.cache
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.GeneratedMSBuildEditorConfig.editorconfig
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.AssemblyInfoInputs.cache
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.AssemblyInfo.cs
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.csproj.CoreCompileInputs.cache
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.dll
+C:\tp09-2022-tomicon\obj\Debug\net6.0\refint\tp09-2022-tomicon.dll
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.pdb
+C:\tp09-2022-tomicon\obj\Debug\net6.0\tp09-2022-tomicon.genruntimeconfig.cache
+C:\tp09-2022-tomicon\obj\Debug\net6.0\ref\tp09-2022-tomicon.dll
